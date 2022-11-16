@@ -12,7 +12,7 @@ function __game_restart() {
 
 	// ahoj
 
-  // blabla hohoho
+  // blabla tsatsatsa
 
   // Go to the very first room, as per room order
   room_goto(rm_menu);
