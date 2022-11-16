@@ -13,7 +13,9 @@ function __game_restart() {
 	// ahoj rururu ttt eee
 
 
+  // opopop
 
+  //ttt zzz
 
   // Go to the very first room, as per room order
   room_goto(rm_menu);
