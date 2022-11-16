@@ -10,7 +10,7 @@ function __game_restart() {
   audio_stop_all();
   draw_texture_flush();
 
-	// nazdar, ooo, uuu
+	// nazdar, ooo, uuu, iii
 
   // blablablah
 
