@@ -12,7 +12,7 @@ function __game_restart() {
 
 	// nazdar, ooo, uuu
 
-  // blablag
+  // blablablah
 
   // Go to the very first room, as per room order
   room_goto(rm_menu);
