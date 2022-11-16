@@ -10,7 +10,8 @@ function __game_restart() {
   audio_stop_all();
   draw_texture_flush();
 
-	// ahoj
+	// ahoj rururu
+
 
   // blabla tsatsatsa
 
