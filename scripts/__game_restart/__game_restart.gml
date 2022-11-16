@@ -10,9 +10,9 @@ function __game_restart() {
   audio_stop_all();
   draw_texture_flush();
 
-	// nazdar, ahoj
+	// nazdar
 
-  // blabla
+  // blablag
 
   // Go to the very first room, as per room order
   room_goto(rm_menu);
