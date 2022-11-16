@@ -10,10 +10,10 @@ function __game_restart() {
   audio_stop_all();
   draw_texture_flush();
 
-	// ahoj rururu 666 888
+	// ahoj rururu 666 777
 
 
-  // blabla tsatsatsa hohoho
+
 
   // Go to the very first room, as per room order
   room_goto(rm_menu);
