@@ -13,7 +13,7 @@ function __game_restart() {
 	// ahoj 666
 
 
-  // nazdar
+  // uuu
 
   //ttt zzz
 
