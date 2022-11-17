@@ -10,7 +10,11 @@ function __game_restart() {
   audio_stop_all();
   draw_texture_flush();
 
+<<<<<<< HEAD
 // 777
+=======
+	// test
+>>>>>>> 29be06700f8b5f1b994258b7c6da2bad0046b080
 
   // Go to the very first room, as per room order
   room_goto(rm_menu);
