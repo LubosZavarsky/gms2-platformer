@@ -13,7 +13,7 @@ function __game_restart() {
 	// ahoj 
 
 
-  // opopop
+  // nazdar
 
   //ttt zzz
 
